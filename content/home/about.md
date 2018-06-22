@@ -10,11 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Computational chemistry",
+    "Quantum chemistry",
     "Workflows and databases",
-    "Thermochemistry",
+    "Machine learning",
     "High-performance computing",
     "Sparse eigensolvers",
+    "Accurate thermochemistry",
     "Anharmonic vibrations"
   ]
 
@@ -35,5 +36,3 @@ weight = 5
   year = 2004
  
 +++
-
-#About me
