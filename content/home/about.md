@@ -41,8 +41,7 @@ I am interested in developing methods and writing codes related to electronic an
 Quantum mechanics gives us the formulations required for a quantitative description of the chemical interactions; 
 however, the complexity of these equations grows rapidly with the system size. 
 We need clever algorithms, efficient implementations and powerful computers to be able to solve these equations. 
-Indeed, there is one more component that help us in this challenge. 
-That is data. 
-The machine learning revolution in the industry brought us powerful data analytics tools and high-throughput experiments and simulations provide us with lots of data. 
-Therefore, I am also interested in designing workflows consisting of data generation, storage and analysis. 
+There is indeed one more component, *data*,  that can significantly help us in this challenge. 
+High-throughput simulations and experiments provide us big data and the machine learning revolution bring us powerful data analytics tools.
 I believe that complementing formula-driven approaches with data-driven models will allow us to solve the most challenging scientific problems in the 21st century.
+Therefore, I am also interested in designing workflows to generate accurate quantum chemistry data and developing tools to analyze and use the data.
