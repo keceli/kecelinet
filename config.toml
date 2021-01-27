@@ -67,7 +67,7 @@ enableGitInfo = false
   address = "9700 S. Cass Ave. Argonne, IL, 60439 USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+1 630 252 5695"
-  skype = "murat_keceli"
+  #skype = "murat_keceli"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -194,16 +194,16 @@ enableGitInfo = false
     date_format = "January, 2006"
 
   # Configuration of project pages.
-  [params.projects]
+#  [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+#    list_children = true
 
     # Publication list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+ #   publication_format = 3
 
   # Social/Academic Networking
   #
@@ -280,7 +280,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 2
 
 # Taxonomies.
 [taxonomies]
